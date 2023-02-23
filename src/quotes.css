@@ -1,0 +1,18 @@
+.qutoes {
+    background-color: #f5f5f5; /* sets the background color of the quotes div */
+    border-radius: 5px; /* rounds the corners of the quotes div */
+    padding: 20px; /* adds some space around the content inside the quotes div */
+  }
+  
+  .qutoes h3 {
+    color: #333; /* sets the color of the quote content */
+    font-size: 24px; /* sets the font size of the quote content */
+    font-weight: bold; /* sets the font weight of the quote content */
+  }
+  
+  .qutoes p {
+    color: #666; /* sets the color of the quote author */
+    font-size: 18px; /* sets the font size of the quote author */
+    margin-top: 10px; /* adds some space between the quote content and author */
+  }
+  
